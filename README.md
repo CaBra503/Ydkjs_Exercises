@@ -5,6 +5,6 @@ First wrote out 5\4
 
 5\10 bug in function FormatAmount & toFixed() type error - returns not a function.
 
-5/11 01:38 am: 
-  Today, I am going to research why tofixed is returning not a function. After coda, and before I work I am going to hammer this out. During work I am going to read chp2 and begin chapt2 practice work. Starting when all of the internal emplotyess left.
-
+5\14 while loop only executes first if block, is there something I am missing about using if ... else if..?
+Maybe switch & break?
+  Maybe I'm just over thinking it, this is supposed to be a beginner exercise.
