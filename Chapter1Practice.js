@@ -50,7 +50,16 @@ while (accountBalance > SPENDING_LIMIT) {
 
 
 
-/* Writing function to optimize code.
+/* Write function to optimize code.
 function buyProduct(){
-  while (accountBalance !> SPENDING_LIMIT){
+  while (accountBalance > SPENDING_LIMIT) &&|| (accountBalance > tempSaleAmount){
+      Set sale price;
+      set sale price + accesory price;
+      set sale price After Tax;
+      display balance owed;
+       buy items() ? 
+       subtract sales + Tax from account;
+        display account balance after purchase;
+      
+  }
   */
